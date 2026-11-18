@@ -1,0 +1,121 @@
+[
+  {
+    "slug": "release-date-platforms",
+    "category": "news",
+    "title": "The road to November 19",
+    "summary": "The announced launch date, supported consoles, and where to check for changes.",
+    "status": "Verified",
+    "source": "official",
+    "body": [
+      "Rockstar lists November 19, 2026 for PlayStation 5 and Xbox Series X|S. This is a dated editorial snapshot, checked November 18, 2026; consult the official listing before making plans.",
+      "The checked official listing does not announce a PC release date. We will not turn predictions about a later port into a confirmed schedule."
+    ]
+  },
+  {
+    "slug": "regional-release-times",
+    "category": "news",
+    "title": "Why some players can start before others",
+    "summary": "A regional midnight rollout means launch does not happen everywhere at the same instant.",
+    "status": "Verified",
+    "source": "support",
+    "body": [
+      "Rockstar Support states a midnight local-time release on November 19, 2026 for PS5 and Xbox Series X|S. Because time zones reach that date at different moments, players in earlier time zones can reach their release time while other regions are still on November 18. This is an inference from the published regional schedule.",
+      "A Twitch stream alone does not establish the streamer\u2019s location, account eligibility or access method. We have not independently verified specific streams and do not label an account-switch workaround as confirmed early access.",
+      "Check the unlock information for your own storefront and account region. Our guide pages still contain untested sample coverage; regional launch does not turn those samples into verified walkthroughs."
+    ]
+  },
+  {
+    "slug": "launch-checklist",
+    "category": "guides",
+    "title": "Your spoiler-free launch checklist",
+    "summary": "A practical preparation guide before your first trip to Leonida.",
+    "status": "Pre-release",
+    "body": [
+      "Sample editorial guide \u2022 not a tested gameplay walkthrough. Check your purchase in your console account, review the official release information, and install available console software updates.",
+      "Read the storage requirement shown by your own store rather than relying on an estimated download size. Review accessibility settings when the game becomes available and decide whether you want to avoid story spoilers.",
+      "After launch, this checklist will be revised with platform-specific steps that have been checked in the released game."
+    ]
+  },
+  {
+    "slug": "money-starting-out",
+    "category": "money",
+    "title": "Making money: what we can say now",
+    "summary": "No invented payouts, unlimited-money promises, or recycled GTA Online advice.",
+    "status": "Pre-release",
+    "body": [
+      "Sample pre-release guide. We have not verified earning methods, mission payouts, investments, or an economy progression route in the released game.",
+      "Our future money guides will record the game version, prerequisites, time spent, costs and net reward. Until those tests exist, there is no ranked best method here.",
+      "Advice for GTA V or GTA Online should not be assumed to apply to GTA VI. Be skeptical of websites offering currency in exchange for your account credentials."
+    ]
+  },
+  {
+    "slug": "mission-walkthroughs",
+    "category": "missions",
+    "title": "Mission walkthroughs, without the guesswork",
+    "summary": "A spoiler-conscious home for checked objectives and walkthroughs after launch.",
+    "status": "Pre-release",
+    "body": [
+      "Sample pre-release coverage plan. This site does not yet publish verified mission names, counts, objectives, rewards or completion requirements.",
+      "Future walkthroughs will identify the mission, prerequisites, tested platform and patch, then separate required objectives from optional goals. Story spoilers will be labeled before the relevant content."
+    ]
+  },
+  {
+    "slug": "vehicle-database",
+    "category": "vehicles",
+    "title": "The vehicle garage is getting ready",
+    "summary": "How we will compare vehicles when reliable gameplay data is available.",
+    "status": "Pre-release",
+    "body": [
+      "Sample pre-release database entry. No vehicle prices, top speeds, handling rankings or spawn locations have been tested by this site.",
+      "After launch, entries will include the verified in-game name, acquisition method and repeatable performance tests. A vehicle appearing in promotional footage alone does not establish its price or availability."
+    ]
+  },
+  {
+    "slug": "vice-city",
+    "category": "map",
+    "title": "Vice City",
+    "summary": "The officially named city at the heart of GTA VI\u2019s setting.",
+    "status": "Verified",
+    "source": "official",
+    "body": [
+      "Rockstar identifies Vice City as part of GTA VI\u2019s setting in Leonida. This page is a location overview, not a navigable game map.",
+      "We have not verified street coordinates, collectible positions or travel routes. The decorative artwork on this site is original illustration and does not represent game geography."
+    ]
+  },
+  {
+    "slug": "leonida",
+    "category": "map",
+    "title": "Welcome to Leonida",
+    "summary": "Start with the official setting. Leave speculative coordinates behind.",
+    "status": "Verified",
+    "source": "official",
+    "body": [
+      "Leonida is the state named in Rockstar\u2019s official GTA VI story description. Jason and Lucia are the central characters described there.",
+      "A complete interactive map requires a verified base map and tested markers. This pre-release directory deliberately contains no invented roads, boundaries or collectible locations."
+    ]
+  },
+  {
+    "slug": "pc-release-rumors",
+    "category": "facts",
+    "title": "Does GTA VI have a PC release date?",
+    "summary": "The official console listing does not establish a PC launch schedule.",
+    "status": "Unconfirmed",
+    "source": "official",
+    "body": [
+      "No PC release date was announced on the official listing checked for this snapshot. That is a limited observation about this source, not a claim that a PC version can never happen.",
+      "We will update this entry when a primary source announces a date. Rumored release windows and retailer placeholders are not confirmation."
+    ]
+  },
+  {
+    "slug": "new-zealand-early-access",
+    "category": "facts",
+    "title": "The New Zealand early-access claim",
+    "summary": "Regional release timing is verified. A workaround is not verified here.",
+    "status": "Unconfirmed",
+    "source": "support",
+    "body": [
+      "The official support page gives regional release timing. It does not, by itself, establish that changing account or console region grants early access.",
+      "This site has not verified an account-switch method, its eligibility or its consequences. We do not present social posts, leaks or alleged early access as a tested feature."
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+name: Update official news
+on:
+  schedule:
+    - cron: '23 7,19 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: official-news
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Collect official headlines
+        run: python3 scripts/update_news.py
+      - name: Build and check
+        run: |
+          python3 scripts/build.py
+          python3 scripts/test.py
+      - name: Save changed headlines
+        run: |
+          git add content/official-news.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name 'gta6answers-news-bot'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Update official Rockstar news links'
+          git push

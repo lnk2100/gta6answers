@@ -1,0 +1,16 @@
+{
+  "name": "GTA6Answers.gg",
+  "url": "https://boisterous-sawine-40cb61.netlify.app",
+  "checked": "2026-11-18",
+  "phase": "Launch coverage",
+  "sources": {
+    "official": {
+      "name": "Rockstar Games \u2014 GTA VI",
+      "url": "https://www.rockstargames.com/VI"
+    },
+    "support": {
+      "name": "Rockstar Support \u2014 Regional release times",
+      "url": "https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s"
+    }
+  }
+}
