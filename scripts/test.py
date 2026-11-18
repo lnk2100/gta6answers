@@ -23,6 +23,8 @@ for f in files:
 ET.parse(dist/'sitemap.xml')
 articles=json.loads((root/'content/articles.json').read_text()); assert len({a['slug'] for a in articles})==len(articles)
 for a in articles:
- assert a['status'] in ['Verified','Unconfirmed','Pre-release']
- if a['status']=='Verified': assert a.get('source')
+ assert a['status'] in ['Verified','Reported','Editorial','Unconfirmed','Pre-release']
+ if a['status'] in ('Verified','Reported'): assert a.get('source')
+ assert a.get('source') in json.loads((root/'content/site.json').read_text())['sources']
+ assert a.get('updated') and a.get('spoiler')
 print(f'PASS: {len(files)} HTML documents; internal links/assets, one H1, description, canonical, main landmark, sitemap XML, article slugs and evidence labels.')

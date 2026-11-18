@@ -5,12 +5,52 @@
   "phase": "Launch coverage",
   "sources": {
     "official": {
-      "name": "Rockstar Games \u2014 GTA VI",
+      "name": "Rockstar Games — GTA VI",
       "url": "https://www.rockstargames.com/VI"
     },
     "support": {
-      "name": "Rockstar Support \u2014 Regional release times",
+      "name": "Rockstar Support — Regional release times",
       "url": "https://support.rockstargames.com/articles/29jV3Cv2cCgvwM1XgtMO5o/grand-theft-auto-vi-regional-pre-load-and-release-times-on-playstation-5-and-xbox-series-x-or-s"
+    },
+    "places": {
+      "name": "Rockstar — People & Places",
+      "url": "https://www.rockstargames.com/VI/only-in-leonida"
+    },
+    "psstart": {
+      "name": "PlayStation — GTA VI support",
+      "url": "https://www.playstation.com/en-us/support/games/gta-vi-support/"
+    },
+    "psfix": {
+      "name": "PlayStation — GTA VI troubleshooting",
+      "url": "https://www.playstation.com/en-us/support/games/gta-vi-game/"
+    },
+    "editions": {
+      "name": "Rockstar Support — Platforms, editions and versions",
+      "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+    },
+    "save": {
+      "name": "PC Gamer / Sean Martin — Saving guide, November 18",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-save-game/"
+    },
+    "cash": {
+      "name": "PC Gamer / Christopher Livingston — Money guide, November 18",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-make-money/"
+    },
+    "cars": {
+      "name": "PC Gamer / Christopher Livingston — Vehicle systems, November 18",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-steal-cars/"
+    },
+    "vgc": {
+      "name": "VGC / Jordan Middler — Beginner guide, November 18",
+      "url": "https://www.videogameschronicle.com/news/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/"
+    },
+    "pcguides": {
+      "name": "PC Gamer — Launch guide hub",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-guide/"
+    },
+    "ap": {
+      "name": "Associated Press — GTA VI launch reporting",
+      "url": "https://apnews.com/article/6e255c930da6de820e539721f4682253"
     }
   }
 }

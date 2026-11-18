@@ -1,15 +1,18 @@
 [
   {
-    "slug": "release-date-platforms",
+    "slug": "launch-reporting",
     "category": "news",
-    "title": "The road to November 19",
-    "summary": "The announced launch date, supported consoles, and where to check for changes.",
-    "status": "Verified",
-    "source": "official",
+    "title": "Launch coverage is here: what the reports establish",
+    "summary": "Published player coverage now sits alongside the official regional release schedule.",
+    "status": "Reported",
+    "source": "ap",
     "body": [
-      "Rockstar lists November 19, 2026 for PlayStation 5 and Xbox Series X|S. This is a dated editorial snapshot, checked November 18, 2026; consult the official listing before making plans.",
-      "The checked official listing does not announce a PC release date. We will not turn predictions about a later port into a confirmed schedule."
-    ]
+      "Associated Press reports on the November 19 launch and includes comments from someone already playing. This supports acknowledging public gameplay coverage rather than labeling every video a leak.",
+      "Our editorial approach is to identify each source and its scope. A report about someone playing does not establish that your account can unlock the game at the same moment. See the regional release guide for the official schedule."
+    ],
+    "updated": "2026-11-18",
+    "spoiler": "No story outcomes.",
+    "keywords": []
   },
   {
     "slug": "regional-release-times",
@@ -20,67 +23,145 @@
     "source": "support",
     "body": [
       "Rockstar Support states a midnight local-time release on November 19, 2026 for PS5 and Xbox Series X|S. Because time zones reach that date at different moments, players in earlier time zones can reach their release time while other regions are still on November 18. This is an inference from the published regional schedule.",
-      "A Twitch stream alone does not establish the streamer\u2019s location, account eligibility or access method. We have not independently verified specific streams and do not label an account-switch workaround as confirmed early access.",
-      "Check the unlock information for your own storefront and account region. Our guide pages still contain untested sample coverage; regional launch does not turn those samples into verified walkthroughs."
-    ]
+      "A Twitch stream alone does not establish the streamer’s location, account eligibility or access method. We have not independently verified specific streams and do not label an account-switch workaround as confirmed early access.",
+      "Use your own storefront countdown for eligibility. Our launch guides now distinguish published hands-on reports from official information; no GTA6Answers gameplay testing is claimed."
+    ],
+    "updated": "2026-11-18",
+    "spoiler": "No story outcomes.",
+    "keywords": []
+  },
+  {
+    "slug": "how-to-save",
+    "category": "guides",
+    "title": "How to save your game",
+    "summary": "The reported manual-save menu, available slots and an important cheats caveat.",
+    "status": "Reported",
+    "source": "save",
+    "body": [
+      "PC Gamer reports manual saving through the main menu: choose Game, then Save Game. The same area offers loading, and the outlet reports 15 manual slots.",
+      "Its guide says cheats can disable saving, requiring a quit and return before saving again. We have not reproduced that behavior ourselves."
+    ],
+    "sections": [
+      {
+        "heading": "A practical save habit",
+        "text": "Keep more than one recent save and check timestamps before replacing a slot. Our editorial suggestion is to preserve an earlier checkpoint before a long session or an experiment. If a menu is unavailable, follow the game’s current prompts rather than assuming progress has been stored."
+      }
+    ],
+    "updated": "2026-11-18",
+    "spoiler": "No story outcomes.",
+    "keywords": []
+  },
+  {
+    "slug": "money-starting-out",
+    "category": "money",
+    "title": "Early money: where the launch reports point",
+    "summary": "A sourced starting route, with progression requirements and no guaranteed hourly payout.",
+    "status": "Reported",
+    "body": [
+      "PC Gamer reports that selling cars becomes a useful income route after meeting Moses in Chapter 2. The outlet describes a cooldown between sales and a later buyer, Randy, who prefers more expensive vehicles.",
+      "Its guide also identifies demolition events at Ambrosia Raceway as repeatable earning opportunities. Rental costs reduce the amount you keep.",
+      "Treat these as reported options rather than a universal fastest route. Our recommendation is to compare net earnings after costs, travel and failed attempts before committing to one activity."
+    ],
+    "source": "cash",
+    "spoiler": "Early progression and activity unlocks; no ending spoilers.",
+    "updated": "2026-11-18",
+    "keywords": []
+  },
+  {
+    "slug": "vehicle-database",
+    "category": "vehicles",
+    "title": "Vehicle systems: why not every car works the same",
+    "summary": "Reported differences between ordinary locks, keyless cars and tracking systems.",
+    "status": "Reported",
+    "body": [
+      "PC Gamer reports that the Waink It app identifies vehicle condition and security, while keyless vehicles require a key cloner rather than ordinary hotwiring. A slim jim opens a lock but does not solve keyless ignition.",
+      "The outlet distinguishes standard trackers from advanced trackers that alert police. It also reports registration through Pay ’n’ Spray as the ownership step.",
+      "For your first session, read the scanner and on-screen prompts before choosing a vehicle. We have not measured top speeds, verified every model or tested these systems ourselves."
+    ],
+    "source": "cars",
+    "updated": "2026-11-18",
+    "spoiler": "No story outcomes.",
+    "keywords": []
+  },
+  {
+    "slug": "release-date-platforms",
+    "category": "news",
+    "title": "GTA VI launch: date, platforms and regional rollout",
+    "summary": "The announced launch date, supported consoles, and where to check for changes.",
+    "status": "Verified",
+    "source": "official",
+    "body": [
+      "Rockstar lists November 19, 2026 for PlayStation 5 and Xbox Series X|S. This is a dated editorial snapshot, checked November 18, 2026; consult the official listing before making plans.",
+      "The checked official listing does not announce a PC release date. We will not turn predictions about a later port into a confirmed schedule."
+    ],
+    "updated": "2026-11-18",
+    "spoiler": "No story outcomes.",
+    "keywords": []
   },
   {
     "slug": "launch-checklist",
     "category": "guides",
     "title": "Your spoiler-free launch checklist",
     "summary": "A practical preparation guide before your first trip to Leonida.",
-    "status": "Pre-release",
+    "status": "Verified",
     "body": [
-      "Sample editorial guide \u2022 not a tested gameplay walkthrough. Check your purchase in your console account, review the official release information, and install available console software updates.",
-      "Read the storage requirement shown by your own store rather than relying on an estimated download size. Review accessibility settings when the game becomes available and decide whether you want to avoid story spoilers.",
-      "After launch, this checklist will be revised with platform-specific steps that have been checked in the released game."
-    ]
-  },
-  {
-    "slug": "money-starting-out",
-    "category": "money",
-    "title": "Making money: what we can say now",
-    "summary": "No invented payouts, unlimited-money promises, or recycled GTA Online advice.",
-    "status": "Pre-release",
-    "body": [
-      "Sample pre-release guide. We have not verified earning methods, mission payouts, investments, or an economy progression route in the released game.",
-      "Our future money guides will record the game version, prerequisites, time spent, costs and net reward. Until those tests exist, there is no ranked best method here.",
-      "Advice for GTA V or GTA Online should not be assumed to apply to GTA VI. Be skeptical of websites offering currency in exchange for your account credentials."
-    ]
+      "PlayStation’s launch instructions recommend checking your order history and available storage before downloading. On PS5, Settings → Storage shows available space.",
+      "For unattended downloads, enable the appropriate automatic-update settings and internet access in Rest Mode. Check the linked PlayStation instructions for the exact menu path on your console.",
+      "Check that the purchasing account is signed in, then look in Downloads/Uploads for installation progress. A preloaded game still needs to reach its regional unlock time."
+    ],
+    "source": "psstart",
+    "sections": [
+      {
+        "heading": "Before your first session",
+        "text": "Our editorial checklist: charge your controller, choose readable subtitles and comfortable audio levels, and keep mission videos closed if you want to discover the story yourself. These are preparation suggestions, not a tested configuration preset."
+      }
+    ],
+    "updated": "2026-11-18",
+    "spoiler": "No story outcomes.",
+    "keywords": []
   },
   {
     "slug": "mission-walkthroughs",
     "category": "missions",
-    "title": "Mission walkthroughs, without the guesswork",
-    "summary": "A spoiler-conscious home for checked objectives and walkthroughs after launch.",
-    "status": "Pre-release",
+    "title": "Early mission unlocks: vehicle tools",
+    "summary": "A short, spoiler-gated progression reference from published hands-on reporting.",
+    "status": "Reported",
     "body": [
-      "Sample pre-release coverage plan. This site does not yet publish verified mission names, counts, objectives, rewards or completion requirements.",
-      "Future walkthroughs will identify the mission, prerequisites, tested platform and patch, then separate required objectives from optional goals. Story spoilers will be labeled before the relevant content."
-    ]
-  },
-  {
-    "slug": "vehicle-database",
-    "category": "vehicles",
-    "title": "The vehicle garage is getting ready",
-    "summary": "How we will compare vehicles when reliable gameplay data is available.",
-    "status": "Pre-release",
-    "body": [
-      "Sample pre-release database entry. No vehicle prices, top speeds, handling rankings or spawn locations have been tested by this site.",
-      "After launch, entries will include the verified in-game name, acquisition method and repeatable performance tests. A vehicle appearing in promotional footage alone does not establish its price or availability."
-    ]
+      "This is a reported unlock reference, not a complete mission walkthrough."
+    ],
+    "source": "cars",
+    "spoiler": "Early mission names and chapter progression.",
+    "sections": [
+      {
+        "heading": "Reported unlock sequence",
+        "items": [
+          "Chapter 1: Unwanted Attention introduces the Waink It vehicle scanner through Cal.",
+          "Chapter 2: Moses introduces the slim jim.",
+          "Chapter 3: Steal the Zorruso for Randy introduces the key cloner."
+        ]
+      },
+      {
+        "heading": "If your tool is missing",
+        "text": "Compare your current story progress with the relevant unlock above. Follow the objective prompts in your own game; do not assume every item seen in a stream is available at the start. We have not independently reproduced this sequence."
+      }
+    ],
+    "updated": "2026-11-18",
+    "keywords": []
   },
   {
     "slug": "vice-city",
     "category": "map",
     "title": "Vice City",
-    "summary": "The officially named city at the heart of GTA VI\u2019s setting.",
+    "summary": "The officially named city at the heart of GTA VI’s setting.",
     "status": "Verified",
     "source": "official",
     "body": [
-      "Rockstar identifies Vice City as part of GTA VI\u2019s setting in Leonida. This page is a location overview, not a navigable game map.",
+      "Rockstar identifies Vice City as part of GTA VI’s setting in Leonida. This page is a location overview, not a navigable game map.",
       "We have not verified street coordinates, collectible positions or travel routes. The decorative artwork on this site is original illustration and does not represent game geography."
-    ]
+    ],
+    "updated": "2026-11-18",
+    "spoiler": "No story outcomes.",
+    "keywords": []
   },
   {
     "slug": "leonida",
@@ -88,11 +169,14 @@
     "title": "Welcome to Leonida",
     "summary": "Start with the official setting. Leave speculative coordinates behind.",
     "status": "Verified",
-    "source": "official",
+    "source": "places",
     "body": [
-      "Leonida is the state named in Rockstar\u2019s official GTA VI story description. Jason and Lucia are the central characters described there.",
-      "A complete interactive map requires a verified base map and tested markers. This pre-release directory deliberately contains no invented roads, boundaries or collectible locations."
-    ]
+      "Leonida is GTA VI’s official state setting. Rockstar’s directory names Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia and Mount Kalaga.",
+      "Use these names to orient yourself when reading guides. This directory does not provide a measured map or collectible coordinates. Decorative artwork on this site is not game geography."
+    ],
+    "updated": "2026-11-18",
+    "spoiler": "No story outcomes.",
+    "keywords": []
   },
   {
     "slug": "pc-release-rumors",
@@ -104,7 +188,10 @@
     "body": [
       "No PC release date was announced on the official listing checked for this snapshot. That is a limited observation about this source, not a claim that a PC version can never happen.",
       "We will update this entry when a primary source announces a date. Rumored release windows and retailer placeholders are not confirmation."
-    ]
+    ],
+    "updated": "2026-11-18",
+    "spoiler": "No story outcomes.",
+    "keywords": []
   },
   {
     "slug": "new-zealand-early-access",
@@ -116,6 +203,178 @@
     "body": [
       "The official support page gives regional release timing. It does not, by itself, establish that changing account or console region grants early access.",
       "This site has not verified an account-switch method, its eligibility or its consequences. We do not present social posts, leaks or alleged early access as a tested feature."
-    ]
+    ],
+    "updated": "2026-11-18",
+    "spoiler": "No story outcomes.",
+    "keywords": []
+  },
+  {
+    "slug": "bank-account",
+    "category": "money",
+    "title": "When can you use a bank account?",
+    "summary": "An early progression requirement reported by VGC.",
+    "status": "Reported",
+    "source": "vgc",
+    "body": [
+      "VGC reports that a bank account becomes available after the mission Buck Me; the game’s opening does not immediately provide one.",
+      "That explains why an early player’s menus may differ from a streamer who has progressed further. We have not independently tested the unlock or quantified losses when carrying cash."
+    ],
+    "spoiler": "One early mission name.",
+    "sections": [
+      {
+        "heading": "Before following a money route",
+        "text": "Check whether the guide assumes later story progress, a specific buyer or a tool you do not own yet. An impressive payout clip is not a reproducible hourly rate without its setup time and costs."
+      }
+    ],
+    "updated": "2026-11-18",
+    "keywords": []
+  },
+  {
+    "slug": "ps5-launch-help",
+    "category": "guides",
+    "title": "PS5 download or launch problem? Start here",
+    "summary": "Official troubleshooting checks before you assume your installation is broken.",
+    "status": "Verified",
+    "source": "psfix",
+    "body": [
+      "PlayStation recommends checking service status, system updates and free storage. For a stalled download, try pausing and resuming it in Downloads/Uploads.",
+      "For a launch problem, confirm regional availability and the owning account. The support guide also describes restoring game licenses. Follow its instructions for your specific symptom rather than repeatedly reinstalling."
+    ],
+    "sections": [
+      {
+        "heading": "Write down the symptom",
+        "text": "Record the exact error code and whether the issue occurs while downloading, launching or loading a save. That gives support a useful starting point. We do not display a live outage indicator; a dated news report cannot establish current server status."
+      }
+    ],
+    "updated": "2026-11-18",
+    "spoiler": "No story outcomes.",
+    "keywords": []
+  },
+  {
+    "slug": "edition-bonuses",
+    "category": "facts",
+    "title": "Standard, Ultimate and the code-in-box edition",
+    "summary": "What the official edition documentation says about upgrades and packaging.",
+    "status": "Verified",
+    "source": "editions",
+    "body": [
+      "Rockstar lists Standard and Ultimate editions, with a separate upgrade available to Standard owners. The boxed version contains a download code, not a game disc.",
+      "Ultimate bonuses are introduced across the story rather than necessarily arriving together at the start. Check the linked official list and your purchase receipt before reporting a missing item."
+    ],
+    "updated": "2026-11-18",
+    "spoiler": "No story outcomes.",
+    "keywords": []
+  },
+  {
+    "slug": "official-bonus-vehicles",
+    "category": "vehicles",
+    "title": "The officially listed bonus vehicles",
+    "summary": "A compact reference to named edition extras, without invented performance rankings.",
+    "status": "Verified",
+    "source": "editions",
+    "body": [
+      "Rockstar’s Ultimate list includes the ’95 Grotti Cheetah, Shitzu Squalo and ’67 Vapid Dominator Buggy. The Vintage Vice City Pack lists a ’55 Vapid Stanier Sedan and garage.",
+      "These are edition listings, not a complete vehicle roster. Inclusion in a bundle does not establish top speed, resale value or the exact moment an item becomes available."
+    ],
+    "updated": "2026-11-18",
+    "spoiler": "No story outcomes.",
+    "keywords": []
+  },
+  {
+    "slug": "code-region-help",
+    "category": "guides",
+    "title": "Before redeeming a boxed game code",
+    "summary": "Match your purchase to the official redemption guidance.",
+    "status": "Verified",
+    "source": "editions",
+    "body": [
+      "Rockstar’s support article details region restrictions and recommends buying through a retailer in your platform-account country. Check its country table before redeeming a code.",
+      "If a code is absent or unreadable, keep your receipt and contact the retailer. Do not publish the code in a screenshot or comment. The support page is the reference for eligibility; this article does not validate an individual purchase."
+    ],
+    "updated": "2026-11-18",
+    "spoiler": "No story outcomes.",
+    "keywords": []
+  },
+  {
+    "slug": "language-support",
+    "category": "guides",
+    "title": "Voice and text languages on PS5",
+    "summary": "A quick reference from PlayStation’s launch support documentation.",
+    "status": "Verified",
+    "source": "psstart",
+    "body": [
+      "PlayStation lists English voice audio and text support for English, French, German, Italian, Korean, Polish, Brazilian Portuguese, Russian, Simplified Chinese, Traditional Chinese, Mexican Spanish and Spanish from Spain.",
+      "Consult the linked platform page for the current list. Text support is not the same as a dubbed voice track."
+    ],
+    "updated": "2026-11-18",
+    "spoiler": "No story outcomes.",
+    "keywords": []
+  },
+  {
+    "slug": "jason-lucia",
+    "category": "facts",
+    "title": "Meet Jason Duval and Lucia Caminos",
+    "summary": "Official character backgrounds, without mission or ending spoilers.",
+    "status": "Verified",
+    "source": "places",
+    "body": [
+      "Rockstar describes Jason as a former soldier working around the Keys. Lucia’s official background includes time in Leonida Penitentiary and a determination to build a better life.",
+      "These are promotional character introductions. They do not reveal how the full story resolves."
+    ],
+    "spoiler": "Official character backstories only.",
+    "updated": "2026-11-18",
+    "keywords": []
+  },
+  {
+    "slug": "supporting-cast",
+    "category": "facts",
+    "title": "The people around Jason and Lucia",
+    "summary": "Names and connections introduced by Rockstar.",
+    "status": "Verified",
+    "source": "places",
+    "body": [
+      "Cal Hampton is Jason’s friend. Brian Heder operates in the Keys. Boobie Ike and Dre’Quan Priest connect to the music business; Bae-Luxe and Roxy perform as Real Dimez. Raul Bautista is described as an experienced robber.",
+      "Use this as a name reference when watching official promotional material. It is not a list of mission outcomes or a prediction about any character’s fate."
+    ],
+    "updated": "2026-11-18",
+    "spoiler": "No story outcomes.",
+    "keywords": []
+  },
+  {
+    "slug": "community-clips",
+    "category": "guides",
+    "title": "How to read a viral gameplay claim",
+    "summary": "A practical checklist for deciding what a public clip actually shows.",
+    "status": "Editorial",
+    "source": "pcguides",
+    "body": [
+      "Start with the original upload, rather than a cropped repost. Look for the platform, publication date and enough footage before and after the claimed result to understand the conditions.",
+      "A clip can demonstrate one outcome without proving a repeatable exploit, a universal spawn or an account-wide unlock. Check mission progress, difficulty settings, game version and whether the creator identifies mods or editing.",
+      "Our research process gives official documentation the Verified label and attributed hands-on reporting the Reported label. We do not call a method tested by GTA6Answers unless this site has documented its own reproduction."
+    ],
+    "sections": [
+      {
+        "heading": "Sharing useful discoveries",
+        "text": "When you post your own content, include the game version, platform, prerequisites, steps and result. Keep story spoilers out of titles and thumbnails. A clear short demonstration is more useful than a guaranteed-money claim with missing setup."
+      }
+    ],
+    "updated": "2026-11-18",
+    "spoiler": "No story outcomes.",
+    "keywords": []
+  },
+  {
+    "slug": "guide-directory",
+    "category": "guides",
+    "title": "Start here: your first-session reading route",
+    "summary": "Find the answer you need without opening a full story walkthrough.",
+    "status": "Editorial",
+    "source": "pcguides",
+    "body": [
+      "For a download or ownership problem, begin with our PS5 help and code guidance. For progress, read the saving guide before experimenting. For money and vehicles, check the story prerequisites first.",
+      "Reported guides summarize a limited set of published observations and link back to their authors. This site has not completed an independent playthrough. The source directory below also points to PC Gamer’s broader hands-on guide hub."
+    ],
+    "updated": "2026-11-18",
+    "spoiler": "No story outcomes.",
+    "keywords": []
   }
 ]
