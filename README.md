@@ -24,13 +24,13 @@ Open http://localhost:4173 in Safari or Chrome. Stop the server with Control-C. 
 
 Keep slugs stable. Categories: news, facts, guides, money, missions, vehicles, map. Statuses: Verified, Pre-release, Unconfirmed. Add primary source entries before referencing them. Escape handling is built into article rendering. Rebuild after edits.
 
-This is a pre-release editorial snapshot checked 2026-11-18. The release date and platforms are sourced from Rockstar; regional unlock timing from Rockstar Support. No alleged New Zealand early access, mission names, money payouts, vehicle stats, leaked coordinates or PC release dates are invented. The site has no live feed or automatic launch switch. Sample guide pages intentionally explain what remains untested. A working map directory is included; a fictional interactive game map is not.
+This is a pre-release editorial snapshot checked 2026-11-18. The release date and platforms are sourced from Rockstar; regional unlock timing from Rockstar Support. No alleged New Zealand early access, mission names, money payouts, vehicle stats, leaked coordinates or PC release dates are invented. The site includes an official-headline feed; editorial release facts do not switch automatically. Sample guide pages intentionally explain what remains untested. A working map directory is included; a fictional interactive game map is not.
 
 Before changing an entry to Verified, document the source or platform, patch, steps and test results. Add spoiler warnings to story content, revise all pre-release wording in the build templates, FAQ and article bodies, update dates and regenerate. The `phase` config records editorial intent; the initial edition text in templates must also be revised. Confirm current release status immediately before public deployment.
 
 ## Deploy
 
-1. Choose your real domain. The default canonical origin is `https://gta6answers.gg`; owning this source does not register that domain.
+1. Choose your real domain. The current canonical origin is `https://boisterous-sawine-40cb61.netlify.app`; owning this source does not register that domain.
 2. If using another domain, build with its origin:
 
 ```sh
