@@ -1,6 +1,6 @@
 # GTA6Answers.gg
 
-A complete, responsive static fan website with 35 routes, 22 editable articles, section landing pages, live search and filters, native accessible FAQ disclosures, sources, editorial policy, privacy, custom 404, sitemap and per-page SEO metadata. Original SVG coastal artwork is decorative, not a game screenshot or map. No paid services, dependencies, API keys, npm or Node required.
+A complete, responsive static fan website with 36 routes, 22 editable articles, section landing pages, live search and filters, native accessible FAQ disclosures, sources, editorial policy, privacy, custom 404, sitemap and per-page SEO metadata. Original SVG coastal artwork is decorative, not a game screenshot or map. No paid services, dependencies, API keys, npm or Node required.
 
 ## Run on a Mac
 
@@ -41,7 +41,7 @@ python3 scripts/test.py
 3. Upload the **contents of `dist/`** to your static host's web root. For Netlify manual deploy, drag the `dist` folder into its deploy upload area. For Cloudflare Pages direct upload, upload `dist` as the site assets. No server functions or SPA fallback are required. A host that serves directory `index.html` files is required; keep the site at the domain root, not a subdirectory.
 4. Set the custom domain in your host and apply the exact DNS records it provides at your registrar. Enable HTTPS. The current free Netlify site is already published; custom-domain registration is optional.
 5. Verify `/`, `/search/?q=money`, `/articles/vice-city/`, `/faq/`, `/sitemap.xml`, `/robots.txt` and an unknown URL. Configure the host to serve `404.html` with an HTTP 404 status for unknown URLs (Python's preview server uses its own default error response).
-6. Submit the sitemap to your search engine webmaster account. Review the privacy policy for the host's logging practices. Add a real corrections contact before opening public submissions; no nonfunctional contact form is included.
+6. Submit the sitemap to your search engine webmaster account. Review the privacy policy for the host's logging practices. Contact and corrections use public GitHub Issues, requiring a GitHub account. Review new issues in the repository; no private email or form inbox is configured.
 
 For a Git-connected host with Python installed, use `python3 scripts/build.py && python3 scripts/test.py` as the build command and `dist` as the publish directory. GitHub Pages project subpaths are not supported without changing URL generation; use a root/custom-domain deployment.
 
