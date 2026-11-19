@@ -30,7 +30,7 @@ Keep summaries spoiler-light. Add source records before referencing them. Set `u
 
 ## Deploy
 
-1. Choose your real domain. The current canonical origin is `https://boisterous-sawine-40cb61.netlify.app`; owning this source does not register that domain.
+1. Choose your real domain. The current canonical origin is `https://gta6answerss.netlify.app`; owning this source does not register that domain.
 2. If using another domain, build with its origin:
 
 ```sh
